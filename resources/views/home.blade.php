@@ -7,7 +7,7 @@
 
 <div class="jumbotron">
 <div class="text-center">
-<img src="assets/img/cover.jpg" alt="">
+<img src="asset/img/cover.jpg" alt="">
                    
                     
                     
